@@ -1,0 +1,14 @@
+uuid: 364c814d-ec20-42bf-9f51-4ec003d33dba
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - nathanael@dewhur.st
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
